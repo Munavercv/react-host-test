@@ -1,0 +1,9 @@
+body{
+  padding: 10rem;
+  justify-content: center;
+  align-items: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 8rem;
+  text-align: center;
+  height: 100vh;
+}
